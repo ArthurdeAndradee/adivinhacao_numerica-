@@ -7,6 +7,6 @@ Jogo de adivinhação na linguagem C
 
 <h2>Have fun!!!</h2>
 
-<h3>Ao baixar o repositório executar o arquivo ˜advinhacao.c˜</h3>
+<h3>Ao baixar o repositório executar o arquivo "advinhacao.c"</h3>
 
 
